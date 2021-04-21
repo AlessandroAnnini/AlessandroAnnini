@@ -13,7 +13,6 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Replace Redux with React Hooks, the easy way.](https://dev.to/ale_annini/replace-redux-with-react-hooks-the-easy-way-10nk)
 <!-- BLOG-POST-LIST:END -->
 
 &nbsp;

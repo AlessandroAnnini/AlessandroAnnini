@@ -13,4 +13,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: '4'
-          feed_list: 'https://medium.com/feed/@alessandro.annini,https://dev.to/feed/ale_annini'
+          feed_list: 'https://medium.com/feed/@alessandro-annini,https://dev.to/feed/ale_annini'
