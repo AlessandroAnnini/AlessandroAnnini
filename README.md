@@ -13,6 +13,9 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Replace Redux with React Hooks, the easy way.](https://dev.to/ale_annini/replace-redux-with-react-hooks-the-easy-way-10nk)
+- [Replace Redux with React Hooks, the easy way.](https://medium.com/hackernoon/replace-redux-with-react-hooks-the-easy-way-4ce9fe2cf231?source=rss-4566943178c0------2)
+- [GraphQL nested mutations with Apollo: small fatigue, max gain](https://medium.com/hackernoon/graphql-nested-mutations-with-apollo-small-fatigue-max-gain-1020f627ea2e?source=rss-4566943178c0------2)
 <!-- BLOG-POST-LIST:END -->
 
 &nbsp;
