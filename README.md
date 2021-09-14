@@ -3,8 +3,8 @@
 
 &nbsp;
 
-- 🔭 I’m currently working on a project for **AIM Group International**
-- 🌱 I’m currently learning **[prisma.io](https://www.prisma.io/)**
+- 🔭 I’m currently working on a project for **AIM Group International** and the new version of **[purewrite.net](https://purewrite.net/)**
+- 🌱 I’m currently into **[next.js](https://nextjs.org/)** and **[prisma.io](https://www.prisma.io/)**
 - 📖 I'm currently certifying **[OpenJS Node.js Application Developer (JSNAD)](https://training.linuxfoundation.org/certification/jsnad/)**
 - 💬 Ask me about **react, react-native, node, learning, music**
 
