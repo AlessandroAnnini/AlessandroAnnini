@@ -3,8 +3,8 @@
 
 &nbsp;
 
+- 🌱 I’m currently into blockchain world with NFTs, minting, tokens, governance DAOs but I am making some project with **[next.js](https://nextjs.org/)** and **[supabase](https://supabase.com//)** too
 - 🔭 I’m currently working on a project for **AIM Group International** and the new version of **[purewrite.net](https://purewrite.net/)**
-- 🌱 I’m currently into **[next.js](https://nextjs.org/)** and **[prisma.io](https://www.prisma.io/)**
 - 📖 I'm currently certifying **[OpenJS Node.js Application Developer (JSNAD)](https://training.linuxfoundation.org/certification/jsnad/)**
 - 💬 Ask me about **react, react-native, node, learning, music**
 
@@ -13,10 +13,6 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Github “Operative System”](https://alessandro-annini.medium.com/github-operative-system-436fc43336f7?source=rss-4566943178c0------2)
-- [Replace Redux with React Hooks, the easy way.](https://dev.to/ale_annini/replace-redux-with-react-hooks-the-easy-way-10nk)
-- [Replace Redux with React Hooks, the easy way.](https://medium.com/hackernoon/replace-redux-with-react-hooks-the-easy-way-4ce9fe2cf231?source=rss-4566943178c0------2)
-- [GraphQL nested mutations with Apollo: small fatigue, max gain](https://medium.com/hackernoon/graphql-nested-mutations-with-apollo-small-fatigue-max-gain-1020f627ea2e?source=rss-4566943178c0------2)
 <!-- BLOG-POST-LIST:END -->
 
 &nbsp;
