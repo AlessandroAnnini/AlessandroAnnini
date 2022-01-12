@@ -14,7 +14,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [PUSHARD Progressively deploy commits between AWS Amplify environments](https://dev.to/ale_annini/pushard-progressively-deploy-commits-between-aws-amplify-environments-4mjj)
+- [Github “Operative System”](https://alessandro-annini.medium.com/github-operative-system-436fc43336f7?source=rss-4566943178c0------2)
 - [Replace Redux with React Hooks, the easy way.](https://dev.to/ale_annini/replace-redux-with-react-hooks-the-easy-way-10nk)
+- [Replace Redux with React Hooks, the easy way.](https://medium.com/hackernoon/replace-redux-with-react-hooks-the-easy-way-4ce9fe2cf231?source=rss-4566943178c0------2)
 <!-- BLOG-POST-LIST:END -->
 
 &nbsp;
