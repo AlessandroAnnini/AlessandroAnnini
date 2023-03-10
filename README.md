@@ -1,31 +1,19 @@
 <h1 align="center">Hi 👋, I'm Alessandro Annini</h1>
-<h3 align="center">I'm a Senior Developer from Italy</h3>
+<h3 align="center">I'm a CTO from Italy</h3>
 
 &nbsp;
 
-- 🌱 I’m currently into blockchain world with NFTs, minting, tokens, governance DAOs but I am making some project with **[next.js](https://nextjs.org/)** and **[supabase](https://supabase.com//)** too
-- 🔭 I’m currently working on a project for **AIM Group International** and the new version of **[purewrite.net](https://purewrite.net/)**
-- 📖 I'm currently certifying **[OpenJS Node.js Application Developer (JSNAD)](https://training.linuxfoundation.org/certification/jsnad/)**
-- 💬 Ask me about **react, react-native, node, learning, music**
+- I am currently CTO of [Nautes](https://github.com/nautes-tech)
+- I am a continuous learner and builder
+- sometimes I feel like writing on [Medium.com](https://medium.com/@alessandro-annini)
+- 💬 Ask me about **react, react-native, next.js, node, aws and learning**
 
 &nbsp;
 
-### Blogs posts
-
-<!-- BLOG-POST-LIST:START -->
-- [PUSHARD Progressively deploy commits between AWS Amplify environments](https://dev.to/ale_annini/pushard-progressively-deploy-commits-between-aws-amplify-environments-4mjj)
-- [Github “Operative System”](https://alessandro-annini.medium.com/github-operative-system-436fc43336f7?source=rss-4566943178c0------2)
-- [Replace Redux with React Hooks, the easy way.](https://dev.to/ale_annini/replace-redux-with-react-hooks-the-easy-way-10nk)
-- [Replace Redux with React Hooks, the easy way.](https://medium.com/hackernoon/replace-redux-with-react-hooks-the-easy-way-4ce9fe2cf231?source=rss-4566943178c0------2)
-<!-- BLOG-POST-LIST:END -->
-
-&nbsp;
+<a href="https://app.daily.dev/sunrising"><img src="https://api.daily.dev/devcards/6dac2ba2f4b5496cb6f72d9ed935bf98.png?r=nx0" width="400" alt="Alessandro Annini's Dev Card"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/ale_annini" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ale_annini" height="30" width="40" />
-  </a>
   <a href="https://linkedin.com/in/alessandroannini" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alessandroannini" height="30" width="40" />
   </a>
