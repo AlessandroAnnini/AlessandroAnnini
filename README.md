@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alessandro Annini</h1>
-<h3 align="center">I'm a CTO from Italy</h3>
+<h3 align="center">I'm a Software Architect from Italy</h3>
 
 &nbsp;
 
-- I am currently CTO of [Nautes](https://github.com/nautes-tech)
+- I am currently a software architect at [TeamSystem](https://www.teamsystem.com/en/)
 - I am a continuous learner and builder
 - sometimes I feel like writing on [Medium.com](https://medium.com/@alessandro-annini)
 - 💬 Ask me about **react, react-native, next.js, node, aws and learning**
