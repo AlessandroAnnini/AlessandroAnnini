@@ -10,7 +10,7 @@
 
 &nbsp;
 
-<a href="https://app.daily.dev/sunrising"><img src="https://api.daily.dev/devcards/6dac2ba2f4b5496cb6f72d9ed935bf98.png?r=nx0" width="400" alt="Alessandro Annini's Dev Card"/></a>
+<a href="https://app.daily.dev/sunrising"><img src="https://api.daily.dev/devcards/v2/8834d14d9e8b45969ff673211e5ce0b5.png?type=default&r=tp1" width="356" alt="Alessandro Annini's Dev Card"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
