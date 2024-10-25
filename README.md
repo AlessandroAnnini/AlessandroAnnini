@@ -9,8 +9,8 @@
 
 ## Connect with me
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=fff&link=https%3A%2F%2Flinkedin.com%2Fin%2Falessandroannini)
-![Medium](https://img.shields.io/badge/Medium-242424?style=for-the-badge&logo=medium&logoColor=fff&link=https%3A%2F%2Fmedium.com%2F%40alessandro.annini)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=fff&link=https%3A%2F%2Flinkedin.com%2Fin%2Falessandroannini)](https://www.linkedin.com/in/alessandroannini/)
+[![Medium](https://img.shields.io/badge/Medium-242424?style=for-the-badge&logo=medium&logoColor=fff&link=https%3A%2F%2Fmedium.com%2F%40alessandro.annini)](https://medium.com/@alessandro-annini)
 
 ## TECHNICAL EXPERIENCE
 
