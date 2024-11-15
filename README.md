@@ -32,8 +32,6 @@ I'm a Senior Software Architect at TeamSystem with a passion for emerging techno
 | ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) |
 | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) | ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
 
-</div>
-
 ## 🎯 Professional Journey
 
 ```mermaid
@@ -65,6 +63,21 @@ timeline
 
 3. **[What's my AGI again?](https://alessandro-annini.medium.com/whats-my-agi-again-implementing-an-autonomous-agent-in-js-e05d73cf532c)** (2023)
    *Building an Autonomous Agent with OpenAI*
+
+</div>
+
+## 🌐 Live Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack | Repository |
+|---------|-------------|------------|------------|
+| [Perth Critical Path](https://perth-critical-path.alessandroannini.com) | Graph visualization tool | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Cytoscape](https://img.shields.io/badge/Cytoscape-F7DF1E?style=flat) | [GitHub](https://github.com/AlessandroAnnini/perth-critical-path) |
+| [DPDS Builder](https://dpds-builder.alessandroannini.com) | JSON Schema Editor | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![JSON Schema](https://img.shields.io/badge/JSON_Schema-000000?style=flat) | [GitHub](https://github.com/AlessandroAnnini/dpds-builder) |
+| [Scrum Course](https://scrum-course.alessandroannini.com) | Agile learning slides | ![Slidev](https://img.shields.io/badge/Slidev-2B9939?style=flat) | [GitHub](https://github.com/AlessandroAnnini/scrum-course) |
+| [Beat Detect](https://beatdetect.alessandroannini.com) | Audio analysis tool | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) | [GitHub](https://github.com/AlessandroAnnini/beatdetect) |
+
+</div>
 
 ## 🏆 Key Projects
 
