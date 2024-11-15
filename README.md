@@ -73,9 +73,11 @@ timeline
 | Project | Description | Tech Stack | Repository |
 |---------|-------------|------------|------------|
 | [Perth Critical Path](https://perth-critical-path.alessandroannini.com) | Graph visualization tool | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Cytoscape](https://img.shields.io/badge/Cytoscape-F7DF1E?style=flat) | [GitHub](https://github.com/AlessandroAnnini/perth-critical-path) |
+| [AWS Resource Scheduler](https://github.com/AlessandroAnnini/aws-ssm-resource-scheduler) | AWS resource automation | ![AWS CLI](https://img.shields.io/badge/AWS_CLI-232F3E?style=flat&logo=amazonaws&logoColor=white) | [GitHub](https://github.com/AlessandroAnnini/aws-ssm-resource-scheduler) |
+| [Purewrite](https://purewrite.net/) | Lyrics writing platform | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Google Drive](https://img.shields.io/badge/Google_Drive-4285F4?style=flat&logo=googledrive&logoColor=white) | - |
 | [DPDS Builder](https://dpds-builder.alessandroannini.com) | JSON Schema Editor | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![JSON Schema](https://img.shields.io/badge/JSON_Schema-000000?style=flat) | [GitHub](https://github.com/AlessandroAnnini/dpds-builder) |
 | [Scrum Course](https://scrum-course.alessandroannini.com) | Agile learning slides | ![Slidev](https://img.shields.io/badge/Slidev-2B9939?style=flat) | [GitHub](https://github.com/AlessandroAnnini/scrum-course) |
-| [Beat Detect](https://beatdetect.alessandroannini.com) | Audio analysis tool | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) | [GitHub](https://github.com/AlessandroAnnini/beatdetect) |
+| [Beat Detect](https://beatdetect.alessandroannini.com) | Audio analysis tool | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) | - |
 
 </div>
 
