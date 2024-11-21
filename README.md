@@ -100,7 +100,6 @@ timeline
 
 - 🎵 Passionate musician (Guitar & Vocals)
 - 🚑 Former Emergency Driver (1998-2006)
-- 🌏 Solo traveler (Australia & San Francisco adventures)
 - 📚 Continuous learner through online courses
 - 🍿 Tech enthusiast with a love for popcorn-fueled learning nights
 
